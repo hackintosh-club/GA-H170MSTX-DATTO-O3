@@ -15,7 +15,7 @@ wifi蓝牙：DW1820A
   
 3.特别说明：使用此引导必须解锁CFG Lock，本人使用grub进行bios修改，拔了主板电池后该功能会失效，需重新解锁CFG Lock  
   
-4.BIOS说明：本人使用的是SMX Diy论坛 @dsanke 基于官方F21版本修改的bios，在此感谢@dsanke大佬  
+4.BIOS说明：本人使用的是[Spring-data-jpa SMX Diy论坛](http://www.smxdiy.com/) @dsanke 基于官方F21版本修改的bios，在此感谢@dsanke大佬  
   
 5.致谢：在此特别要感谢@黑果小兵、@Xjn写的教程，没有他们的帮助，oc引导是无法完成的  
 
