@@ -13,9 +13,9 @@ wifi蓝牙：DW1820A
 已知问题：如遇到wifi或丢失蓝牙，关机断电重启后恢复正常（此情况应该比较少见），建议使用白果网卡
 白果网卡用户可删除AirportBrcmFixup.kext、BrcmBluetoothInjector.kext、BrcmFirmwareData.kext、BrcmPatchRAM3.kext这四个驱动
   
-3.特别说明：使用此引导必须解锁CFG Lock，本人使用grub进行bios修改，拔了主板电池后该功能会失效，需重新解锁CFG Lock  
+3.特别说明：使用此引导必须解锁CFG Lock，本人使用grub进行bios修改，拔了主板电池后该功能会失效，需重新解锁CFG Lock
   
-4.BIOS说明：本人使用的是[SMX Diy论坛](http://www.smxdiy.com/) @dsanke 基于官方F21版本修改的bios，在此感谢@dsanke大佬  
+4.BIOS说明：本人使用的是[SMX Diy论坛](http://www.smxdiy.com/) @dsanke 基于官方F21版本修改的bios，在此感谢@dsanke大佬 [bios设置参考](https://post.smzdm.com/p/ag827k43/)
   
 5.致谢：在此特别要感谢@[黑果小兵](https://blog.daliansky.net/) 、@[Xjn](https://blog.daliansky.net/OpenCore-BootLoader.html)写的教程，没有他们的帮助，oc引导是无法完成的  
 
