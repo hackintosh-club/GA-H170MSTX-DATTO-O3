@@ -17,7 +17,7 @@ wifi蓝牙：DW1820A
   
 4.BIOS说明：本人使用的是[SMX Diy论坛](http://www.smxdiy.com/) @dsanke 基于官方F21版本修改的bios，在此感谢@dsanke大佬  
   
-5.致谢：在此特别要感谢@黑果小兵、@Xjn写的教程，没有他们的帮助，oc引导是无法完成的  
+5.致谢：在此特别要感谢@[黑果小兵](https://blog.daliansky.net/) 、@[Xjn](https://blog.daliansky.net/OpenCore-BootLoader.html)写的教程，没有他们的帮助，oc引导是无法完成的  
 
 6.系统：目前使用 Catalina 10.15.6
 
