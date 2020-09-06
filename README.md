@@ -1,5 +1,5 @@
 # GA-H170MSTX-DATTO-O3
-云轩H170 OpenCore0.6.0 引导文件  
+云轩H170 OpenCore0.6.0 引导文件（2020年9月6日更新上传）
   
 1.硬件配置：  
 cpu：i7 8700(qn8g)  
