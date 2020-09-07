@@ -11,7 +11,7 @@ wifi蓝牙：DW1820A
 键鼠：罗技K580+M590
   
 2.硬件使用情况：所有硬件均正常工作
-我的无线网卡1820A设备信息是pci14e4,43a3，请用Hackintool查看你自己的型号做相应修改
+我的无线网卡1820A设备信息是pci14e4,43a3，请用Hackintool查看你自己的型号做相应修改    
 详细教程参见@黑果小兵的教程[DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html) 
 
 3.已知问题：用本引导文件尝试在外置硬盘安装Big Sur失败后，进入Catalina wifi驱动丢失，解决方式关机断电重新开机后恢复正常
