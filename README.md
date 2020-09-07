@@ -42,7 +42,7 @@ cpu:i5 9600k
 硬盘：海康C160N 512G SATA SSD + WD 500g  
 显卡：蓝宝石 RX580 8G 2304SP    
 系统：MacOS Catalina 10.15.6 单系统 + PD虚拟机win10  
-引导：OpenCore 0.6.0 
+引导：OpenCore 0.6.0   
 键鼠：罗技K580 （黑） + MX Master 2s （灰）+ Magic TrackPad2 （灰） 
 
 12：NAS配置
