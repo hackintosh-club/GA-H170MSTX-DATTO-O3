@@ -41,31 +41,31 @@ cpu:i5 9600k
 主板：ROG STRIX Z370-I GAMING   
 内存：十铨火神 ddr4 3000 8G*2  
 硬盘：海康C160N 512G SATA SSD + WD 500g  
-显卡：蓝宝石 RX580 8G 2304SP  
-系统：MacOS Catalina 10.15.6 单系统 + PD虚拟机win10
-引导：OpenCore 0.6.0
-键鼠：罗技K580 （黑） + MX Master 2s （灰）+ Magic TrackPad2 （灰）
+显卡：蓝宝石 RX580 8G 2304SP    
+系统：MacOS Catalina 10.15.6 单系统 + PD虚拟机win10  
+引导：OpenCore 0.6.0 
+键鼠：罗技K580 （黑） + MX Master 2s （灰）+ Magic TrackPad2 （灰） 
 
 12：NAS配置
-cpu:i7 8700t es （qn8j）
-主板：华擎Z390m itx
-内存：十铨火神 ddr4 3000 8G*2
-硬盘：intel545s 240G SATA SSD + WD 3T 红盘 + WD 1T 蓝盘 + WD 500g 蓝盘*2
-系统：windows 10 专业工作站版（安装在SSD）
-机箱：蜗牛星际B机箱 4盘位
-散热：猫头鹰nh-l9i + nf-a12*25
-电源：益恒250W全模组+猫头鹰NF-A4x20
-虚拟机：VMware Workstation 15 PRo 黑群晖
+cpu:i7 8700t es （qn8j）  
+主板：华擎Z390m itx  
+内存：十铨火神 ddr4 3000 8G*2  
+硬盘：intel545s 240G SATA SSD + WD 3T 红盘 + WD 1T 蓝盘 + WD 500g 蓝盘*2 
+系统：windows 10 专业工作站版（安装在SSD）  
+机箱：蜗牛星际B机箱 4盘位  
+散热：猫头鹰nh-l9i + nf-a12*25  
+电源：益恒250W全模组+猫头鹰NF-A4x20  
+虚拟机：VMware Workstation 15 PRo 黑群晖 
 
-13.软路由配置
-cpu:i3 9100
-主板：华擎H170m itx
-内存：Ramaxel ddr4 2666 8G*2（联想拆机）
-硬盘：东芝TR200 240G SATA SSD
-系统：esxi 6.7 update 3
-机箱：亚克力定制
-散热：大镰刀 S950M
-电源：联达DC-ATX 12V 120W 20Pin + 4pin + SATA + IDE
-虚拟机：ikuai x64 + homelede openwrt + Catalina 10.15.6
+13.软路由配置  
+cpu:i3 9100 
+主板：华擎H170m itx  
+内存：Ramaxel ddr4 2666 8G*2（联想拆机） 
+硬盘：东芝TR200 240G SATA SSD  
+系统：esxi 6.7 update 3  
+机箱：亚克力定制  
+散热：大镰刀 S950M  
+电源：联达DC-ATX 12V 120W 20Pin + 4pin + SATA + IDE  
+虚拟机：ikuai x64 + homelede openwrt + Catalina 10.15.6 
 
 
