@@ -6,7 +6,7 @@ cpu：i7 8700 es(qn8g)
 内存：协德 2666 8g*2  
 硬盘：M.2 2280 十铨 512G  
 wifi蓝牙：DW1820A  
-声卡：ALC255 
+声卡：ALC255   
 显示器：自行组装15.6寸 4K便携显示器 minihdmi接口  
 键鼠：罗技K580+M590  
   
@@ -68,4 +68,3 @@ cpu:i3 9100
 电源：联达DC-ATX 12V 120W 20Pin + 4pin + SATA + IDE  
 虚拟机：ikuai x64 + homelede openwrt + Catalina 10.15.6   
 网卡：intel I350T4 v2 4口网卡
-
