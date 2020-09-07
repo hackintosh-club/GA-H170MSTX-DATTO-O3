@@ -6,9 +6,9 @@ cpu：i7 8700 es(qn8g)
 内存：协德 2666 8g*2  
 硬盘：M.2 2280 十铨 512G  
 wifi蓝牙：DW1820A  
-声卡：ALC255
-显示器：自行组装15.6寸 4K便携显示器 minihdmi接口
-键鼠：罗技K580+M590
+声卡：ALC255 
+显示器：自行组装15.6寸 4K便携显示器 minihdmi接口  
+键鼠：罗技K580+M590  
   
 2.硬件使用情况：所有硬件均正常工作
 我的无线网卡1820A设备信息是pci14e4,43a3，请用Hackintool查看你自己的型号做相应修改    
@@ -43,7 +43,8 @@ cpu:i5 9600k
 显卡：蓝宝石 RX580 8G 2304SP    
 系统：MacOS Catalina 10.15.6 单系统 + PD虚拟机win10  
 引导：OpenCore 0.6.0   
-键鼠：罗技K580 （黑） + MX Master 2s （灰）+ Magic TrackPad2 （灰） 
+键鼠：罗技K580 （黑） + MX Master 2s （灰）+ Magic TrackPad2 （灰）   
+显示器：DELL U2718Q 4K + ViewSonic VX2478-4K-HD 
 
 12：NAS配置
 cpu:i7 8700t es （qn8j）  
