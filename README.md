@@ -36,7 +36,6 @@ wifi蓝牙：DW1820A
 欢迎云轩H170用户使用测试转载，感谢你们的支持！
 
 11.主力机配置
-
 cpu:i5 9600k
 主板：ROG STRIX Z370-I GAMING   
 内存：十铨火神 ddr4 3000 8G*2  
@@ -66,6 +65,7 @@ cpu:i3 9100
 机箱：亚克力定制  
 散热：大镰刀 S950M  
 电源：联达DC-ATX 12V 120W 20Pin + 4pin + SATA + IDE  
-虚拟机：ikuai x64 + homelede openwrt + Catalina 10.15.6 
+虚拟机：ikuai x64 + homelede openwrt + Catalina 10.15.6   
+网卡：intel I350T4 v2 4口网卡
 
 
