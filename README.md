@@ -59,7 +59,7 @@ cpu:i7 8700t es （qn8j）
 13.软路由配置  
 cpu:i3 9100 
 主板：华擎H170m itx  
-内存：Ramaxel ddr4 2666 8G*2（联想拆机） 
+内存：Ramaxel ddr4 2666 8G*2（联想拆机）   
 硬盘：东芝TR200 240G SATA SSD  
 系统：esxi 6.7 update 3  
 机箱：亚克力定制  
