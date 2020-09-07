@@ -35,7 +35,7 @@ wifi蓝牙：DW1820A
 
 欢迎云轩H170用户使用测试转载，感谢你们的支持！
 
-11.主力机配置
+11.主力机配置  
 cpu:i5 9600k  
 主板：ROG STRIX Z370-I GAMING  
 内存：十铨火神 ddr4 3000 8G*2  
@@ -46,7 +46,7 @@ cpu:i5 9600k
 键鼠：罗技K580 （黑） + MX Master 2s （灰）+ Magic TrackPad2 （灰）   
 显示器：DELL U2718Q 4K + ViewSonic VX2478-4K-HD 
 
-12：NAS配置
+12：NAS配置  
 cpu:i7 8700t es （qn8j）  
 主板：华擎Z390m itx  
 内存：十铨火神 ddr4 3000 8G*2  
