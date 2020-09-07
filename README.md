@@ -38,10 +38,10 @@ wifi蓝牙：DW1820A
 11.主力机配置
 
 cpu:i5 9600k
-主板：ROG STRIX Z370-I GAMING
-内存：十铨火神 ddr4 3000 8G*2
-硬盘：海康C160N 512G SATA SSD + WD 500g
-显卡：蓝宝石 RX580 8G 2304SP
+主板：ROG STRIX Z370-I GAMING   
+内存：十铨火神 ddr4 3000 8G*2  
+硬盘：海康C160N 512G SATA SSD + WD 500g  
+显卡：蓝宝石 RX580 8G 2304SP  
 系统：MacOS Catalina 10.15.6 单系统 + PD虚拟机win10
 引导：OpenCore 0.6.0
 键鼠：罗技K580 （黑） + MX Master 2s （灰）+ Magic TrackPad2 （灰）
