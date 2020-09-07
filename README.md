@@ -68,4 +68,3 @@ cpu:i3 9100
 虚拟机：ikuai x64 + homelede openwrt + Catalina 10.15.6   
 网卡：intel I350T4 v2 4口网卡
 
-
