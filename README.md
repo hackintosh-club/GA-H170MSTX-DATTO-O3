@@ -49,7 +49,7 @@ cpu:i5 9600k
 cpu:i7 8700t es （qn8j）  
 主板：华擎Z390m itx  
 内存：十铨火神 ddr4 3000 8G*2  
-硬盘：intel545s 240G SATA SSD + WD 3T 红盘 + WD 1T 蓝盘 + WD 500g 蓝盘*2 
+硬盘：intel545s 240G SATA SSD + WD 3T 红盘 + WD 1T 蓝盘 + WD 500g 蓝盘*2   
 系统：windows 10 专业工作站版（安装在SSD）  
 机箱：蜗牛星际B机箱 4盘位  
 散热：猫头鹰nh-l9i + nf-a12*25  
