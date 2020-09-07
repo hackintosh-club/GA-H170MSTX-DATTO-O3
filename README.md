@@ -67,3 +67,4 @@ cpu:i3 9100
 电源：联达DC-ATX 12V 120W 20Pin + 4pin + SATA + IDE
 虚拟机：ikuai x64 + homelede openwrt + Catalina 10.15.6
 
+
