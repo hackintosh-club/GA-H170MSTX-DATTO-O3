@@ -38,9 +38,7 @@ wifi蓝牙：DW1820A
 11.主力机配置
 
 cpu:i5 9600k
-
 主板：ROG STRIX Z370-I GAMING
-
 内存：十铨火神 ddr4 3000 8G*2
 硬盘：海康C160N 512G SATA SSD + WD 500g
 显卡：蓝宝石 RX580 8G 2304SP
