@@ -1,6 +1,6 @@
 ## 技嘉 H170MSTX-DATTO-O3 黑苹果 OpenCore EFI
 
-![image](ScreenShot/H170.png)![>
+![image](ScreenShot/H170.png)
 
 ### OpenCore
 
