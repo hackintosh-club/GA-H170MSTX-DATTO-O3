@@ -1,14 +1,17 @@
-## 技嘉 H170MSTX-DATTO-O3 黑苹果 OpenCore EFI
+## 云轩H170 STX 技嘉 H170MSTX-DATTO-O3 黑苹果 OpenCore EFI
 
 ![image](ScreenShot/H170.png)
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 ### macOS
 
 - macOS Big Sur
+- macOS Monterey
+- macOS Venture
+- macOS Sonoma
 
 ### 硬件
 
@@ -21,7 +24,7 @@
 - 核   显: 英特尔超核心显卡630（DP & HDMI output）
 - 声   卡: 瑞昱 ALC255
 - 有线网卡:  英特尔有线网卡
-- 无线网卡: 
+- 无线网卡: 白果拆机94360CS2 + 转接
 
 ### BIOS设置
 
@@ -39,7 +42,7 @@ Peripherals
 	   |-- SATA And RST Configuration
 	      |-- SATA Mode Selection：AHCI
 Chipset		
-     |-- VT-d：Disabled
+     |-- VT-d：Enabled
      |-- Internal Graphics：Enabled
      |-- DVMT Pre-Allocated：64M
      |-- DVMT Total Gfx Mem：MAX
@@ -48,11 +51,11 @@ Chipset
 
 ### 注意事项
 
- - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 安装成功后必须使用  [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
  - [张大妈 --- 云轩h170 hackintosh](https://post.smzdm.com/p/ag827k43/)
  - [张大妈 --- 云轩h170装机体验](https://post.smzdm.com/p/alpool7p/)
- - 说明：上一次更新时（2020年9月16日）我的云轩已经售出，当时最后的版本为OpenCore 0.6.0
- - 目前的OpenCore 0.9.5 引导需要自行测试，如需帮助请和我联系
+ - 说明：2020年9月16日我的云轩已经售出，当时最后的版本为OpenCore 0.6.0
+ - 目前的引导为OpenCore 1.0.0 版本，如需帮助请和我联系
 
 
 ### 联系我们
