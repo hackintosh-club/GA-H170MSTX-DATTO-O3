@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.4](https://github.com/acidanthera/OpenCorePkg)
 
 ### macOS
 
@@ -12,6 +12,7 @@
 - macOS Monterey
 - macOS Venture
 - macOS Sonoma
+- macOS Sequoia**(WiFi 必须使用 [OCLP-Mod by laobamac](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) 补丁)**
 
 ### 硬件
 
@@ -55,7 +56,7 @@ Chipset
  - [张大妈 --- 云轩h170 hackintosh](https://post.smzdm.com/p/ag827k43/)
  - [张大妈 --- 云轩h170装机体验](https://post.smzdm.com/p/alpool7p/)
  - 说明：2020年9月16日我的云轩已经售出，当时最后的版本为OpenCore 0.6.0
- - 目前的引导为OpenCore 1.0.0 版本，如需帮助请和我联系
+ - 目前的引导为OpenCore 1.0.4 版本，如需帮助请和我联系
 
 
 ### 联系我们
