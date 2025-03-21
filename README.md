@@ -12,7 +12,7 @@
 - macOS Monterey
 - macOS Venture
 - macOS Sonoma
-- macOS Sequoia**(WiFi 必须使用 [OCLP-Mod by laobamac](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) 补丁)**
+- macOS Sequoia **(WiFi 必须使用 [OCLP-Mod by laobamac](https://github.com/hackintosh-club/intel-nuc10/releases/tag/oclp) 补丁)**
 
 ### 硬件
 
